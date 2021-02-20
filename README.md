@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <h1>정현아 선물</h1>
 <ol>
